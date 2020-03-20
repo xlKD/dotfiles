@@ -3,6 +3,7 @@ syntax on
 set t_Co=256
 set term=screen-256color
 
+" mkdir ~/.vim/colors and copy color file into it
 colorscheme jellybeans
 
 " Add line number
@@ -16,7 +17,11 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
-" Mode changing
+" Keep in visual mode after indenting
+:vnoremap < <gv
+:vnoremap > >gv
+
+" Toggle paste mode
 set pastetoggle=<F2>
 
 " Remap
