@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/hung.nguyenquoc/src/kyc-idms-frontend'
+let g:netrw_dirhist_3='/opt/cisco/anyconnect/profile'
+let g:netrw_dirhist_2='/Users/hung.nguyenquoc/src/inhouse-onboarding-backend'
+let g:netrw_dirhist_1='/Users/hung.nguyenquoc/src'
+let g:netrw_dirhist_0='/Users/hung.nguyenquoc/src/inhouse-onboarding-backend'
+let g:netrw_dirhist_9='/Users/hung.nguyenquoc/Downloads/inhouse-onboarding/docker-compose'
+let g:netrw_dirhist_8='/Users/hung.nguyenquoc/src/inhouse-onboarding/app/containers/Demo/PersonalInformationPage'
+let g:netrw_dirhist_7='/Users/hung.nguyenquoc/src/inhouse-onboarding/app/containers/Demo/NumberSelectPage'
+let g:netrw_dirhist_6='/Users/hung.nguyenquoc/src/inhouse-onboarding/app/containers/Demo/DeviceDetailPage'
+let g:netrw_dirhist_5='/Users/hung.nguyenquoc/src/inhouse-onboarding'
